@@ -1,8 +1,5 @@
 # Analisis Produksi Sampah Jawa Barat
 
-## Deskripsi
-Proyek ini menganalisis data produksi sampah berdasarkan Kabupaten/Kota di Jawa Barat menggunakan Python dan library Pandas.
-
 ## Sumber Data
 Open Data Jawa Barat  
 https://opendata.jabarprov.go.id/id/dataset/jumlah-produksi-sampah-berdasarkan-kabupatenkota-di-jawa-barat
